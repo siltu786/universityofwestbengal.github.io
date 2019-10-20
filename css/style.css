@@ -1,0 +1,98 @@
+.bgimg{
+	background-image: url('../img2/1.jpeg');
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.hearderset{
+	padding-top: 2px;
+	box-sizing: border-box;
+}
+.hearderset h2{
+	font-size: 20px;
+	color: blue;
+}
+
+
+
+/*
+...................ourservices......................*/
+
+
+.ourservices{
+	padding: 100px 0px 60px;
+	height: 700px;
+}
+.imgsetting{
+	margin: 80px 0px;
+}
+.ourservices h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+
+.rowsetting {
+margin: 80px 0px !important;
+}
+.rowsetting h2{
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 30px;
+}
+.rowsetting p{
+	padding: 10px;
+	color: #6c757d!important;
+}
+.imgsetting{
+	border-radius: 40%;
+	height: 100px;
+	width: 100px;
+}
+.fa-user{
+	margin-top: 22px;
+}
+.fa-desktop{
+	margin-top: 24px;
+}
+.fa-lock{
+	margin-top: 22px;
+}
+
+/*
+////////////////////portfolio*/
+.portfolio{
+	height: 1100px;
+	width: 100%;
+	padding: 100px 0px 50px;
+}
+.portfolio h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+.card{
+	margin-top: 40px;
+}
+/*
+//////////////////////////////ourteam*/
+.ourteam{
+	height: 700PX;
+	padding: 100PX 0PX 60PX;
+	width: 100%;
+}
+.ourteam h1{
+    font-size: 50px;
+	font-weight: bold;
+}
+.teamsetting{
+	margin-top: 50px!important;
+}
+/*
+///////////////////////footer*/
+.footer{
+	height: 50px;
+}
+.footer h6{
+	line-height: 50px;
+}
